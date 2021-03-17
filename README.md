@@ -1,3 +1,3 @@
 # Twoactivities
 ### App screenshot
-![](./Lab4_task1ss.png)
+![](./Lab4_task2ss.png)
